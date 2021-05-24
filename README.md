@@ -1,7 +1,7 @@
-# NewRepo
-my new repository
-hello!
-hii \n
-hi kiran khadakbhavi
-abcd
+#include<stdio.h>
+int main()
+{
+printf("This is function F1");
+return 0;
+}
 
